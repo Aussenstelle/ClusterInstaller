@@ -1,0 +1,2 @@
+Path: '/usr/share/fonts/truetype/'
+https://www.wfonts.com/download/data/2015/03/12/futura/futura.zip
