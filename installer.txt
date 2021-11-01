@@ -1,0 +1,4 @@
+apt-get;idle3
+apt;https://launcher.mojang.com/download/Minecraft.deb
+apt-get;idle
+apt;https://code.visualstudio.com/sha/download?build=stable&os=linux-deb-x64
