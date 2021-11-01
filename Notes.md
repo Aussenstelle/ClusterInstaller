@@ -4,3 +4,4 @@ Arten:
 - 'font;<Download Link>'
 - 'apt-get;<Paketname>'
 - 'apt;<Download-Link>'
+- 'pip3;<Modul>'
