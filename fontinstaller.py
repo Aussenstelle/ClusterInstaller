@@ -1,7 +1,7 @@
 import os
 import sys
 
-print('FontLoader initalisiert...')
+print('FontLoader initalisiert... Bitte warten...')
 if sys.platform == 'linux' or platform == 'linux2':
     print('Linux erkannt.')
 else:
