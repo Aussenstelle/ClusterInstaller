@@ -24,6 +24,7 @@ else:
         os.makedirs('/home/administrator/ClusterInstaller')
         print('Pfad erstellet')
     url = 'https://www.python.org/favicon.ico'
+    https://raw.githubusercontent.com/Aussenstelle/ClusterInstaller/main/installer.txt
 try:
     d = open('/home/administrator/config.txt', 'r')	
 except:
